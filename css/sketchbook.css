@@ -1,0 +1,39 @@
+.sketchbook {
+	height: 500px;
+	padding-top: 90px;
+}
+
+.sketchbook__inner {
+	display: flex;
+	justify-content: space-between;
+}
+
+.sketchbook__text {
+	max-width: 350px;
+	max-height: 272px;
+	padding-top: 30px;
+}
+
+.sketchbook__title {
+	padding-bottom: 15px;
+
+	font-size: 40px;
+	line-height: 1;
+	text-align: left;
+
+	color: #666;
+}
+
+.sketchbook__desc {
+	padding-bottom: 40px;
+
+	line-height: 1.6;
+	text-align: left;
+
+	color: #85859B;
+}
+
+.sketchbook__bg {
+	width: 730px;
+	height: 410px;
+}

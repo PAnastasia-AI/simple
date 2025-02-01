@@ -1,0 +1,29 @@
+.footer__paper {
+	background-color: #4C5866;
+}
+
+.footer__inner {
+	display: flex;
+	justify-content: space-between;
+
+	padding: 25px 0;
+}
+
+.footer__logo {
+	width: 140px;
+	height: 22px;
+}
+
+.footer__contacts {
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer__contact {
+	padding-left: 30px;
+}
+
+.footer__end {
+	padding: 3px 0;
+	text-align: center;
+}

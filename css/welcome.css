@@ -1,0 +1,32 @@
+.welcome {
+	height: 670px;
+	padding-top: 110px;
+}
+
+.welcome__inner {
+	display: flex;
+	justify-content: space-between;
+}
+
+.welcome__text {
+	max-height: 365px;
+	max-width: 445px;
+}
+
+.welcome__title {
+	font-size: 60px;
+	line-height: 1;
+	text-align: left;
+
+	color: #4C5866;
+}
+
+.welcome__desc {
+	padding: 50px 0;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+.welcome__bg {
+	max-width: 540px;
+}
